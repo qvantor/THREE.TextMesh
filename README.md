@@ -2,6 +2,7 @@
 ----------
 
 **Usage**
+
 To create new text mesh use constructor `THREE.text2d(text, font, fontSize);`
 
     var text = new THREE.text2d('2d text in 3d space', 'Arial', 32);
